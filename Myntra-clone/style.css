@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+.bag-button{
+    width: 180px;
+    font-size: 1.6rem;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid gray;
+}
+
+.wish-button{
+    width: 270px;
+    font-size: 2rem;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 10px;
+}
