@@ -3,15 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 30px;
-}
 .bag-button{
-    width: 180px;
-    font-size: 1.6rem;
+    width: 150px;
+    font-size: 1.4rem;
     background-color: aquamarine;
     border-radius: 10px;
     border: none;
@@ -19,10 +13,10 @@ body{
 }
 
 .wish-button{
-    width: 270px;
-    font-size: 2rem;
+    width: 220px;
+    font-size: 1.6rem;
     border: none;
     border: 1px solid gray;
-    border-radius: 5px;
-    margin: 10px;
+    border-radius: 15px;
+    margin: 5px;
 }
